@@ -19,7 +19,7 @@ setup(
         "Operating System :: OS Independent",
         'Programming Language :: Python :: 3.9',
     ],
-    package_dir={"": "starRatingQTableItem"},
-    packages=find_packages(where="starRatingQTableItem"),
+    package_dir={"": "src"},
+    packages=find_packages(where="src"),
     python_requires=">=3.6",
 )

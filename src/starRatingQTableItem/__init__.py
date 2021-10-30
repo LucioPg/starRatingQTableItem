@@ -1,0 +1,2 @@
+from .__objects.m_qtableitem import StarRatingItem as StarRatingQTableItem
+from .__objects.star_rating_delegate import StarDelegate
