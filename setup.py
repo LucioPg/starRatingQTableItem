@@ -8,7 +8,7 @@ setup(
     author='LucioPg',
     author_email='',
     license='BSD 2-clause',
-    install_requires=['PyQt5==5.15.6',
+    install_requires=['PyQt5==5.15',
                       'PyQt5-Qt5==5.15.2',
                       'PyQt5-sip==12.9.0 ',
                       ],
